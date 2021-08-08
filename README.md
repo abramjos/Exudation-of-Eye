@@ -15,5 +15,5 @@ Augmentation on the dataset includes rotation, gamma, colour shift and contrast.
 
 ## CNN Model and Performance
 Used UNet for detecting exudations in fundus images.
-Performance of dice coefficient close to .45.
+Performance of dice coefficient close to 0.45-0.6 respectively for training and testing dataset and the accuracy on the test data is close to 94% on the testing data[binary classification accuracy of existence of exudation in the retina images].
 
